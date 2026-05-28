@@ -106,6 +106,8 @@ npm run dev
 
 ## 📸 Application Preview
 
+<img width="1900" height="871" alt="Employee Dashboard React App Demo Home Page" src="https://github.com/user-attachments/assets/dbfe41b7-fee0-4284-802d-e54eaa39bcc7" />
+
 ### Main Functionalities
 
 * Employee Cards Display
