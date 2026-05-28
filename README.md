@@ -1,16 +1,150 @@
-# React + Vite
+# 🚀 Employee Dashboard React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Employee Dashboard built using React, Vite, Tailwind CSS, and Axios 📊✨. This project demonstrates API integration, dynamic filtering, responsive UI design, reusable React components, and clean frontend development practices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 Features
 
-## React Compiler
+✅ Fetch employee/user data from API
+✅ Search employees by name
+✅ Filter employees by age
+✅ Filter employees by gender
+✅ Responsive modern UI using Tailwind CSS
+✅ Attractive Navbar and Footer
+✅ Reusable React Components
+✅ API integration using Axios
+✅ Mobile-friendly layout
+✅ Clean and organized folder structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+
+* React.js
+* Vite
+* Tailwind CSS
+* Axios
+
+### API
+
+* DummyJSON Users API
+
+---
+
+## 📂 Folder Structure
+
+```bash
+src/
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Footer.jsx
+│   └── UserCard.jsx
+│
+├── assets/
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## 🔗 API Used
+
+```bash
+https://dummyjson.com/users
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/OmPimple26/Employee-Dashboard-React-App-Demo.git
+```
+
+---
+
+### 2️⃣ Navigate to Project Folder
+
+```bash
+cd Employee-Dashboard-React-App-Demo
+```
+
+---
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+### 4️⃣ Start Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Application Preview
+
+### Main Functionalities
+
+* Employee Cards Display
+* Search by Name
+* Filter by Age
+* Filter by Gender
+* Responsive Navigation Bar
+* Responsive Footer
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped in understanding:
+
+* React Functional Components
+* React Hooks (`useState`, `useEffect`)
+* API Fetching with Axios
+* State Management
+* Conditional Rendering
+* Component Reusability
+* Tailwind CSS Styling
+* Responsive Web Design
+* Git & GitHub Workflow
+
+---
+
+## 🚀 Future Improvements
+
+* Dark Mode 🌙
+* Pagination 📄
+* Sorting Functionality 🔃
+* React Router Integration 🛣️
+* Loading Spinner ⏳
+* Toast Notifications 🔔
+* Backend Integration 🌐
+
+---
+
+## 👨‍💻 Author
+
+### Om Pimple
+
+* GitHub: [https://github.com/OmPimple26](https://github.com/OmPimple26)
+* LinkedIn: [www.linkedin.com/in/om-pimple-0a081a251](http://www.linkedin.com/in/om-pimple-0a081a251)
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
