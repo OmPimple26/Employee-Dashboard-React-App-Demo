@@ -7,14 +7,23 @@ A modern and responsive Employee Dashboard built using React, Vite, Tailwind CSS
 ## 🌟 Features
 
 ✅ Fetch employee/user data from API
+
 ✅ Search employees by name
+
 ✅ Filter employees by age
+
 ✅ Filter employees by gender
+
 ✅ Responsive modern UI using Tailwind CSS
+
 ✅ Attractive Navbar and Footer
+
 ✅ Reusable React Components
+
 ✅ API integration using Axios
+
 ✅ Mobile-friendly layout
+
 ✅ Clean and organized folder structure
 
 ---
